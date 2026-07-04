@@ -122,9 +122,10 @@ Then add:
 Sales-Analytics-Dashboard-Excel/
 │
 ├── README.md
-├── Dashboard.png
-├── Sales Dashboard.xlsx
-├── Dataset.xlsx
+├── Executive Performance Analysis.png
+├── Product & Profitability.png
+├── Cus and Operational Analysis.png
+├── Superstore Sales.xlsx
 └── LICENSE
 ```
 
